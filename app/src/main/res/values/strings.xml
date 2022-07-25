@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">AsakatsuYaro</string>
+    <string name="app_name">AsakatsuYaro</string>>
+    <string name="input_pattern_name">パターンの名前を入力してください</string>
 </resources>
